@@ -1,11 +1,17 @@
 Change log
-==========================================================================================================================================================================
-This is the change log
-==========================================================================================================================================================================
-Version 1.1.0     Complete
+=========================================================================================================================================================================
+This is the change log for TeslaOS
+=========================================================================================================================================================================
+Version 1.1.0     Complete    5/18/2022
 I stated the proggram and added a cople of the main features a password, a way to change the text and background color, A way to shut down (close it)
 Bug fixes: NONE
-==========================================================================================================================================================================
-Version 1.2.0     Working on
+=========================================================================================================================================================================
+Version 1.2.0     Will be released on 5/23/2022
 I added the funcion of a text editor it can write text and load text. It also tells you that you have entered the wrong password.
 Bug fixes: When you are prompted to enter an ID. If you entered an invalid ID it would crash. Now it reloads the screen you were on.
+=========================================================================================================================================================================
+Version 1.3.0     Being worked on
+I added a settings option in the Home screen so all future settings will be added to the settings tab. I alsoadded a soial that takes you to a list of all of my sacials 
+currently it just takes you to my Github page.
+Bug Fixes: NONE
+=========================================================================================================================================================================
