@@ -12,6 +12,6 @@ Please visit the change log to know what is being changed and what has happened 
 
 I like Tesla if you did not know
 
-If you showcase this pleas give me credit.
+If you showcase this please give me credit.
 
 Have fun :)
