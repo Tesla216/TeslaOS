@@ -3,7 +3,7 @@ Change log
 This is the change log for TeslaOS
 =========================================================================================================================================================================
 Version 1.1.0     Complete    5/18/2022
-I stated the proggram and added a cople of the main features a password, a way to change the text and background color, A way to shut down (close it)
+I started the program and added a couple of the main features a password, a way to change the text and background color, A way to shut down (close it)
 Bug fixes: NONE
 =========================================================================================================================================================================
 Version 1.2.0     Will be released on 5/23/2022
